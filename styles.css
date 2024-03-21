@@ -75,7 +75,7 @@ body {
 .presentacion {
   width: 60%;
   height: 100vh;
-  background-image: url('/caroline-sada.jpg');
+  background-image: url('/img/caroline-sada.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
