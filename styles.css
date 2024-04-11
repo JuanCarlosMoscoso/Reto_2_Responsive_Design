@@ -13,7 +13,7 @@ svg {
   background-color: rgba(217, 217, 217, 0.6);
 }
 .img-presentacion {
-  background-image: url('/img/caroline-sada.jpg');
+  background-image: url('img/caroline-sada.jpg');
   background-size: cover;
   background-position: center;
 }
